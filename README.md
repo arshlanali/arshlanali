@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me insta @_arshlanali
 - MY coding profiles: leetcode: https://leetcode.com/arshlan-ali/
--                     GeeksforGeeks: https://auth.geeksforgeeks.org/user/goal_digger/
+- GeeksforGeek:   https://auth.geeksforgeeks.org/user/goal_digger/
 -                    
 
 <!---
