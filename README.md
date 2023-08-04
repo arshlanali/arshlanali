@@ -2,7 +2,10 @@
 - 👀 I’m interested in ...Cyber Security
 - 🌱 I’m currently learning ...Different programming languages
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...insta @thearshlanali
+- 📫 How to reach me insta @_arshlanali
+- MY coding profiles: leetcode: https://leetcode.com/arshlan-ali/
+-                     GeeksforGeeks: https://auth.geeksforgeeks.org/user/goal_digger/
+-                    
 
 <!---
 arshlanali/arshlanali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
