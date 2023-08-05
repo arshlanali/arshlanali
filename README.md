@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @arshlanali
-- 👀 I’m interested in ...Cyber Security
+- 👋 Hi, I’m Arshlan Ali
 - 🌱 I’m currently learning ...Different programming languages
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me insta @_arshlanali
