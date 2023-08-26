@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Arshlan Ali
 - 🌱 I’m currently learning ...Different programming languages
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me insta @_arshlanali
 - MY coding profiles: leetcode: https://leetcode.com/arshlan-ali/
 - GeeksforGeek:   https://auth.geeksforgeeks.org/user/goal_digger/
 -                    
